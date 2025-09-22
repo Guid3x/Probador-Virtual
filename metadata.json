@@ -1,0 +1,7 @@
+{
+  "name": "Probador Virtual con IA",
+  "description": "Sube una foto de una persona y una prenda para generar imágenes de la persona vistiendo el atuendo en diferentes poses de modelaje.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
